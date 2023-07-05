@@ -12,6 +12,10 @@
     <style>
         #carousel_bd30{
             background-image: url("images/adminbg.jpg");
+            background-size: cover;
+            /*background: linear-gradient(#6F5F90,#6F5F90);*/
+            
+            
         }
     </style>
 </head>
@@ -51,7 +55,7 @@
           <div class="u-layout-row">
             <div class="u-align-center-sm u-align-center-xs u-container-style u-layout-cell u-left-cell u-size-22 u-layout-cell-1">
               <div class="u-container-layout u-valign-middle u-container-layout-1">
-                <h2 class="u-text u-text-body-alt-color u-text-1">Team 1</h2>
+                <h2 class="u-text u-text-body-alt-color u-text-1">Team 3</h2>
                 <h3 class="u-custom-font u-text u-text-body-alt-color u-text-2">Summer 2023</h3>
               </div>
             </div>
